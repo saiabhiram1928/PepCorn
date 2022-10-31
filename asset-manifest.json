@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PepCorn/static/css/main.fd9a6830.css",
+    "main.js": "/PepCorn/static/js/main.7f0a638b.js",
+    "index.html": "/PepCorn/index.html",
+    "main.fd9a6830.css.map": "/PepCorn/static/css/main.fd9a6830.css.map",
+    "main.7f0a638b.js.map": "/PepCorn/static/js/main.7f0a638b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9a6830.css",
+    "static/js/main.7f0a638b.js"
+  ]
+}
